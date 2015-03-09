@@ -7,7 +7,7 @@
         id        = "com.libingweb.current"
         version   = "0.0.1">
 
-    <name>在线货币转换器</name>
+    <name>货币转换器</name>
 
     <description>
         准确方便的在线货币转换工具。
