@@ -40,9 +40,7 @@
     <!--
        
     -->
-
-   
-
+    <icon src="icon.png" />
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
     <string>100</string>
     </gap:config-file>
