@@ -6,7 +6,7 @@
 <script type="text/javascript" src="cordova.js"></script>
  <script type="text/javascript" src="AdMob.js"></script>     
 </head> 
-<body> 
+<body onload="onLoad()"> 
 <script>
  function onLoad() {
         var localtime=new Date();
@@ -71,7 +71,7 @@
                 </iframe>
 <script>
 var x = document.getElementById("iframe");
-x.addEventListener("click", Showbig());
+x.addEventListener("click", Show);
 
 
 </script>
